@@ -7,7 +7,3 @@
 4. Attachments (audio , video , images ) code
 
 5. hide the whatsapp staus
-
-6.adding video call feature
-
-7.adding audi call feature
