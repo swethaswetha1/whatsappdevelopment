@@ -13,3 +13,5 @@
 7.adding audio call feature
 
 8.adding status so that user can play train ganes
+
+9.add sending current location
