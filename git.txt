@@ -10,4 +10,4 @@
 
 6.adding video call feature
 
-7.adding audi0 call feature
+7.adding audio call feature
