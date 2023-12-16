@@ -5,3 +5,5 @@
 3. last seen code
 
 4. Attachments (audio , video , images ) code
+
+5. hide the whatsapp staus
